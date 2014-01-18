@@ -1,6 +1,9 @@
 import java.net.*;
 import java.io.*;
 
+/*
+ * This is a test for git
+ */
 public class OpenCommercial {
 	public static void main(String[] arg) throws Exception{
 		BufferedReader mykeydb = new BufferedReader(new InputStreamReader(System.in));
